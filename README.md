@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Hind Al Ayoubi! 👋
 
-<!--
-**hindayoubi-ui/hindayoubi-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Web Developer
 
-Here are some ideas to get you started:
+I'm passionate about web development and enjoy building practical projects while continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- PHP
+- MySQL
+- REST APIs
+- Git & GitHub
+
+### 🚀 My Projects
+
+I have worked on different web development projects, from responsive websites and interactive applications to database-driven systems and full-stack projects.
+
+I'm currently organizing my projects into a professional portfolio.
+
+### 📫 Connect With Me
+
+LinkedIn: (https://www.linkedin.com/in/hind-al-ayoubi/)
+
+
+⭐ Thanks for visiting my GitHub profile!
